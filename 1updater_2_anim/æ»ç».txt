@@ -1,0 +1,8 @@
+总结.txt
+
+:Author: song
+:Email: song@localhost
+:Date: 2022-03-03 18:39
+
+updatefromalphafunc 这个方法很有用
+并且和save_state() restore()有个很好的小配合

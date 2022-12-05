@@ -1,0 +1,10 @@
+add_updater总结.txt
+
+:Author: song
+:Email: song@localhost
+:Date: 2022-03-03 18:21
+
+add_updater(不含dt)
+	一 像text那样绑定另一个obj
+	二 move_to  带t的函数
+
